@@ -1,6 +1,6 @@
  import java.util.*;
 
-public class Swap {
+public class Swap_Numbers {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int a, b, temp;
