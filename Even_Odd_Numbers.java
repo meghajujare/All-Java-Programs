@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Prime_Numbers {
+public class Even_Odd_Numbers {
     public static boolean isEven(int number) {
         if (number % 2 == 0) {
             return true;
