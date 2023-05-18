@@ -2,7 +2,7 @@
 //To check if the number is palindrome or not 
 import java.util.*;
 
-public class Palindrome {
+public class Palindrome_Number {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int n, num, rev = 0, ld;
